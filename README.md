@@ -17,6 +17,10 @@
 
 The game data is unpacked to the app's internal storage on first launch.
 
+## Controls
+
+![Extreme Tux Racer VR controller mapping](docs/controls.webp)
+
 ## Building
 
 The Quest build lives in `android/` (Gradle + CMake, arm64-v8a, minSdk 29). The desktop build is unaffected. `vr-probe/` is a minimal standalone OpenXR app for checking the toolchain.
