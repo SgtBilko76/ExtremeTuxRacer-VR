@@ -1,5 +1,7 @@
 # Extreme Tux Racer Quest VR
 
+**Download, install guide, controls and pictures: [portroyale.online/extremetuxracer.html](https://portroyale.online/extremetuxracer.html)**
+
 [![Sponsor](https://img.shields.io/badge/Sponsor-SgtBilko76-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SgtBilko76)
 
 [Extreme Tux Racer](https://sourceforge.net/projects/extremetuxracer/) running standalone on Meta Quest in true stereo at 72 Hz. Race Tux the penguin down icy slopes and grab herrings along the way.
